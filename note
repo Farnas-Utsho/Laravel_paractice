@@ -1,0 +1,6 @@
+// #Route parameters
+// Rout::get('/post/{id},function(string$id)){
+//     return'User'.$id;
+// }
+// =>a particular route :php artisan route:list --path= " name of the route"
+// ///// Route paramenters ////////////// ////
